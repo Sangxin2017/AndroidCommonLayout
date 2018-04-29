@@ -1,0 +1,4 @@
+关于启动页主要是使用Timer
+引导页的话是ConvenientBanner
+有时间看下喽
+代码奉上
